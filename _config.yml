@@ -22,9 +22,9 @@ repository               : "lullvillekid/lullvillekid.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Zach Baugher"
+  pronouns         : "he/him"  
+  bio              : "Third-year Ph.D. student in number theory"
   location         : "Los Angeles, CA"
   employer         : "UCLA"
   uri              : # URL
